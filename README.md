@@ -10,6 +10,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 
 ### 🧪 Lab Environments
 - ✅ *Setting Up a Virtual Home Lab* (on macOS and Windows)
+- Active Directory project
 - ☁ *Cloud Home Lab Setup* (for scalable, remote testing)
 
 ### 🔍 Reconnaissance & Threat Analysis
