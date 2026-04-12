@@ -64,7 +64,7 @@ Hello! I’m **Ali Sanusi**, a results-driven Cybersecurity Analyst with two yea
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 07-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 08-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 08-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](git@github.com:namecheap-tech/Phishing-project-simulation.git) |
 | 09-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 10-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 11-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
