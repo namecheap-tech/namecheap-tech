@@ -57,7 +57,7 @@ Hello! I’m **Ali Sanusi**, a results-driven Cybersecurity Analyst with two yea
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/namecheap-tech/CYBERSECURITY-HOME-LAB) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
