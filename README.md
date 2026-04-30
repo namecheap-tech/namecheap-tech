@@ -69,7 +69,7 @@ Hello! I’m **Ali Sanusi**, a results-driven Cybersecurity Analyst with two yea
 | 10-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 11-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 12-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-|
+| 13-Incident Response | Phishing email Incident | [View Repo](https://github.com/namecheap-tech/Incident-Response---Phishing-Email-Incident) |
 
 ---
 
